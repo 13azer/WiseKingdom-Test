@@ -1,3 +1,5 @@
+Please run 'npm install' to create node_modules folder.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
